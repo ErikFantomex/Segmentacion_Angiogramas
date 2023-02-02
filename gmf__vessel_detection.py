@@ -71,28 +71,13 @@ plt.imshow(rt)
 #Agrupamos todas imagenes en una lista 
 #import os 
 
-#images=[]
 
-#def getFiles(path):
-#    for file in os.listdir(path):
-#        if file.endswith(".pgm"):
-#            images.append(os.path.join(path, file))
 
-#filesPath = 'Database_134_Angiograms'
 
-#getFiles(filesPath)
-#print(images)
 
 
 # Vamos a definir una nueva funcion para enseñar imagenes
 
-#def imshow(title="Image", image = None, size = 10):
-#  w, h = image.shape[0], image.shape[1]
-#  aspect_ratio = w/h
-#  plt.figure(figsize=(size*aspect_ratio,size))
-#  plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
-#  plt.title(title)
-#  plt.show()
 
 
 #contador = 0
@@ -103,10 +88,6 @@ plt.imshow(rt)
   #plt.imshow(gass)
 #  imshow(str(contador),imagen)
 
-#imshow(rt)
-#rt
-#plt.imshow(rt)
-#rt.shape
 
 #contador = 0 
 #for i in images:
@@ -119,9 +100,7 @@ plt.imshow(rt)
 #  contador = contador + 1
 #plt.imshow(GMF(Y, sigma, L, T, K))
 
-#from skimage import data
 
-#from skimage.filters import threshold_otsu
 fig, ax = try_all_threshold(rt, figsize=(10, 8), verbose=False)
 plt.show()
 
