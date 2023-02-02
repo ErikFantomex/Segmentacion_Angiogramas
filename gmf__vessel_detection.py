@@ -13,7 +13,6 @@ import numpy as np
 import math
 import cv2 
 from skimage.filters import try_all_threshold
-from matplotlib.image import imread
 from matplotlib import pyplot as plt 
 import numpy.matlib
 
