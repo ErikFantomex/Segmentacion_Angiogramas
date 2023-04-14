@@ -18,3 +18,4 @@ nodes are the dominant pixels for shape
 preservation.
 
 <img src="https://github.com/ErikFantomex/Segmentacion_Angiogramas/blob/main/filtro.png" alt="banner"/>
+<img src="https://github.com/ErikFantomex/Segmentacion_Angiogramas/blob/main/filtro2.png" alt="banner"/>
