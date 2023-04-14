@@ -16,3 +16,5 @@ of Ramer-Douglas-Peucker is used to represent
 the coronary artery skeleton as a graph, where the
 nodes are the dominant pixels for shape
 preservation.
+
+<img src="https://github.com/ErikFantomex/Segmentacion_Angiogramas/blob/main/filtro.png" alt="banner"/>
